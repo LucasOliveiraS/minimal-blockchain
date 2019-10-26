@@ -4,7 +4,7 @@
   <br>
 </p>
 
-<sub>Diga "Oi" <br> 
+<sub>Say "Hello" <br> 
     <ul>
         <li><a href="https://github.com/LucasOliveiraS">Github Profile</a></li>
         <li><a href="https://www.linkedin.com/in/lucas-oliveira-492723127/">Linkedin</a></li>
