@@ -12,4 +12,4 @@
     </ul>
 </sub>
 
-<p>Demonstração de uma estrutura de Blockchain capaz de suportar uma criptmoeda. É possível realizar transações, minerar criptmoedas e efetuar o consenso da rede.</p>
+<p>Demonstração de uma estrutura de Blockchain capaz de suportar uma criptmoeda. É possível realizar transações, minerar criptomoedas e efetuar o consenso da rede.</p>
