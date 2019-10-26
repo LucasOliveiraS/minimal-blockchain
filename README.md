@@ -1,1 +1,1 @@
-Teste
+Minimal Blockchain and cryptocurrency using Python.
