@@ -79,7 +79,6 @@ def get_chain():
                 'lenght' :  len(blockchain.chain)}
     return jsonify(response), 200
 
-<<<<<<< HEAD:Minimal Blockchain/blockchain.py
 # Checking if the Blockchain is valid
 @app.route('/is_valid', method = ['GET'])
 def is_valid():
@@ -90,6 +89,4 @@ def is_valid():
         response = {'message' : 'Houston, we have a problem. The Blockchain is not valid'}
     return jsonify(response), 200
 
-=======
->>>>>>> db69fd3c4d0c37588c70b0f4caaf729c4772989e:basic/blockchain.py
 app.run(host='0.0.0.0', port=5000)

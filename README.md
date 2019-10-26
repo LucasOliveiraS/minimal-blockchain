@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <h2 align="center">Minimal Blockchain</h2>
   <p align="center">Blockchain and cryptocurrency application using python</p>
@@ -13,5 +12,3 @@
   <a href="https://medium.com/@lucasoliveiras"><img src="https://img.shields.io/badge/Medium-Dev%20in%20Anything-lightgrey.svg"/></a><br>
   <a href="https://www.linkedin.com/in/lucas-oliveira-492723127/"><img src="https://img.shields.io/badge/LinkedIn-%40hideraldoluis_-blue.svg"/></a>
 </sub>
-=======
->>>>>>> db69fd3c4d0c37588c70b0f4caaf729c4772989e
